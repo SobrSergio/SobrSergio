@@ -6,7 +6,6 @@
 
 <h1 align="center"><b> Hi, I'm Sergey! </b></h1>
 
-### 
  
 <div align="center">
   <a href="https://t.me/SergeyManakhimov" target="_blank">
@@ -14,13 +13,10 @@
   </a>
 </div>
 
-### 
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SobrSergio.SobrSergio" />
 </div>
-
-### 
 
 <p align="center"><em>Student of the <a href="https://www.hse.ru/">HSE University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
